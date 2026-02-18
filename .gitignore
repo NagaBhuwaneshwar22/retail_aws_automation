@@ -1,0 +1,8 @@
+test.py
+pratice.ipynb
+spark-jars
+.vscode
+py-venv/
+__pycache__/
+.env
+*.log
